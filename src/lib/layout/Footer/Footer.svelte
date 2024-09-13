@@ -3,10 +3,11 @@
     <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
       <div>
         <h3 class="text-xl font-semibold mb-4">Contact Us</h3>
-        <p>Email: nesetiedu@gmail.com</p>
-        <p>Phone: +91 95086 16203</p>
+        <p>Email: neseti2022@gmail.com</p>
+        <p>Phone: +91 8638744236, 0376-2911513</p>
         <p>Main Center Address:</p>
-        <p>Babu Patty, in front of Kali Mandir, Sivasagar, Assam</p>
+        <p>South Sonari Gaon, Na-Ali, Dhekiajuli, Near Dr.Nobin Bordoloi College, Jorhat-785009, Assam</p>
+        <a href="https://www.google.com/maps?q=26.6611456,94.195111&z=17&hl=en" target="_blank" class="text-4xl">🏠</a>
       </div>
       <div>
         <h3 class="text-xl font-semibold mb-4">Quick Links</h3>
@@ -34,21 +35,47 @@
       </div>
     </div>
     <div class="mt-8 border-t border-gray-700 pt-8">
-      <h3 class="text-xl font-semibold mb-4">Our Centers</h3>
+      <h3 class="text-2xl font-bold mb-4 text-blue-400 underline">Our Centers</h3>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-        <div>Center 1: Jorhat</div>
-        <div>Center 2: Golaghat</div>
-        <div>Center 3: Sivasagar</div>
-        <div>Center 4: Nazira</div>
-        <div>Center 5: Amguri</div>
-        <div>Center 6: Teok</div>
-        <div>Center 7: Moran</div>
-        <div>Center 8: Moran</div>
-        <div>Center 9: Moran</div>
+        <div><h4 class="text-green-500">Center 1:</h4> 
+          <p>Babupatty, In front of Kali Mandir Sivasagar</p>
+          <p>Ph: 7002767392</p>
+          <a href="https://www.google.com/maps/dir//Babu+Patty,+in+front+of+Kali+Mandir,+Sivasagar,+Assam+785640/@26.986393,94.5475184,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x37473144040c76a3:0xaf95fc849125dee!2m2!1d94.6299199!2d26.986417?entry=ttu&g_ep=EgoyMDI0MDkwOS4wIKXMDSoASAFQAw%3D%3D" target="_blank"></a>
+        </div>
+        <div><h4 class="text-green-500">Center 2:</h4> 
+          <p>Borhampur, Near Battalion Camp, Nagaon-782102, Assam</p>
+          <p>Ph: 8638984215</p>
+        </div>
+        <div><h4 class="text-green-500">Center 3:</h4> 
+          <p>Dhalajan Baruah Complex, Dhalajan, Jorhat-785616, Assam</p>
+          <p>Ph: +91 9101816553</p>
+        </div>
+        <div><h4 class="text-green-500">Center 4:</h4> 
+          <p>Ankita Cutting and Embroidery Training School, Dhalajan, Jorhat-785616, Assam</p>
+          <p>Ph: 9954173847</p>
+        </div>
+        <div><h4 class="text-green-500">Center 5:</h4> 
+          <p>Namchuk, Pukhuripuria Gaon, Teok, Jorhat-785112, Assam</p>
+          <p>Ph: 9101532223</p>
+        </div>
+        <div><h4 class="text-green-500">Center 6:</h4> 
+          <p>Jail-Road, Near Junaki Sangha Vidalaya, Jorhat-785001, Assam</p>
+          <p>Ph: 9957639981</p>
+        </div>
+        <div><h4 class="text-green-500">Center 7:</h4> 
+          <p>Progya Tailoring, Bora Bazaar, Teok, Jorhat-785112</p>
+          <p>Ph: 9401472168</p>
+        </div>
+        <div><h4 class="text-green-500">Center 8:</h4> 
+          <p>Princita Tailoring, Phukan Habi Gaon, Mogroi, Nakasari, Jorhat-785635</p>
+          <p>Ph: 6000832852</p>
+        </div>
+        <div><h4 class="text-green-500">Center 9:</h4> 
+          <p>Abhinash Complex, Cahraibahi-785616</p>
+          <p>Ph: 8822633074</p>
+        </div>
       </div>
     </div>
     <div class="mt-8 text-center">
-      <p>&copy; 2024 Neseti. All rights reserved.</p>
-    </div>
-  </div>
-</footer>
+      <p>&copy; 2024 Neseti. All rights reserved</p>
+    </div></footer>

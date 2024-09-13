@@ -6,7 +6,6 @@
 		{ label: 'Home', href: '/' },
 		{ label: 'About Us', href: '/about' },
 		{ label: 'Courses', href: '/courses' },
-		{ label: 'Admission', href: '/admission' },
 		{ label: 'Contact Us', href: '#contact-us' },
 		{ label: 'Login', href: '/auth' }
 	];

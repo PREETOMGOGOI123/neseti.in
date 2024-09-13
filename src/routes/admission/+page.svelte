@@ -1,1 +1,0 @@
-<h1 class="m-auto p-24 text-center text-red-500 text-2xl font-bold">Comming Soon...</h1>

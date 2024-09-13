@@ -6,12 +6,12 @@
       <h2 class="text-3xl font-extrabold text-gray-900 text-center mb-8">About Us</h2>
       <div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
         <div>
-          <img src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" alt="Neseti Institute" class="rounded-lg shadow-md">
+          <img src="/src/lib/images/gallery-images/WhatsApp Image 2023-01-18 at 3.04.02 PM (1).jpeg" alt="Neseti Institute" class="rounded-lg shadow-md">
         </div>
         <div>
-          <h3 class="text-2xl font-semibold text-gray-900 mb-4">Empowering Minds Since 2014</h3>
+          <h3 class="text-2xl font-semibold text-gray-900 mb-4">Empowering Minds Since 2022</h3>
           <p class="text-gray-600 mb-6">
-            Neseti, founded in 2014, is an educational institution dedicated to bridging the gap between education and industry needs. We provide high-quality, innovative learning experiences in technology, digital skills, healthcare, makeup artistry, and astrology. Our diverse range of practical courses empowers students to thrive in rapidly evolving industries, from the digital landscape to healthcare practices, beauty trends, and celestial studies. By offering this unique blend of programs, we ensure our students are well-equipped for various career paths and personal interests.
+            Neseti, founded in 2022, is an educational institution dedicated to bridging the gap between education and industry needs. We provide high-quality, innovative learning experiences in technology, digital skills, healthcare, makeup artistry, and astrology. Our diverse range of practical courses empowers students to thrive in rapidly evolving industries, from the digital landscape to healthcare practices, beauty trends, and celestial studies. By offering this unique blend of programs, we ensure our students are well-equipped for various career paths and personal interests.
           </p>
           <ul class="space-y-2 mb-6">
             <li class="flex items-center">

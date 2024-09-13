@@ -11,7 +11,7 @@
 
 <section class="bg-transparent py-16">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 class="text-3xl font-extrabold text-gray-900 text-center mb-12">
+        <h2 class="text-3xl font-extrabold text-gray-900 text-center mb-16">
             Our Affiliations and Approvals
         </h2>
         <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8">

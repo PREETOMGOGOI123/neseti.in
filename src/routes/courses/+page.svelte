@@ -110,12 +110,14 @@
                 <h3 class="text-2xl font-semibold text-gray-900 mb-4">{course.title}</h3>
                 <p class="text-gray-600 mb-4 text-sm leading-relaxed">{course.description}</p>
                 <p class="text-sm text-blue-600 mb-6 font-medium">Duration: {course.duration}</p>
-                <a
-                  href={course.link}
-                  class="inline-block bg-blue-600 text-white px-6 py-3 rounded-full text-sm font-semibold hover:bg-blue-700 transition duration-300 shadow-md hover:shadow-lg"
-                >
-                  Learn More
-                </a>
+                {#if industry.name === "Computer Skills Courses"}
+                  <a
+                    href={course.link}
+                    class="inline-block bg-blue-600 text-white px-6 py-3 rounded-full text-sm font-semibold hover:bg-blue-700 transition duration-300 shadow-md hover:shadow-lg"
+                  >
+                    Learn More
+                  </a>
+                {/if}
               </div>
             {/each}
           </div>

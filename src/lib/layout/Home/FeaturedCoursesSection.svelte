@@ -1,19 +1,19 @@
 <script>
   const featuredCourses = [
     {
-      image: "https://images.pexels.com/photos/4047186/pexels-photo-4047186.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      image: "https://plus.unsplash.com/premium_photo-1682430553117-f1d0edb35a14?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       title: "Postgraduate Diploma in Computer Application",
       description: "Advance your computer skills with comprehensive training in software development, database management, and advanced computing concepts.",
       link: "/courses/computer-skills/pgdca"
     },
     {
-      image: "https://images.unsplash.com/photo-1529078155058-5d716f45d604?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       title: "Postgraduate Diploma in Software Technology - Tally ERP9",
       description: "Master Tally ERP9 along with advanced software technology concepts for comprehensive financial management and business operations.",
       link: "/courses/computer-skills/pgdst-tally"
     },
     {
-      image: "https://images.unsplash.com/photo-1515942661900-94b3d1972591?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      image: "https://images.unsplash.com/photo-1455894127589-22f75500213a?q=80&w=1987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       title: "Diploma in Computer Application",
       description: "Gain essential computer skills including MS Office, internet technologies, and basic hardware maintenance for various office and IT roles.",
       link: "/courses/computer-skills/dca"
