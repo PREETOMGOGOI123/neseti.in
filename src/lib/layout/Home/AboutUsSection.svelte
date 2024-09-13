@@ -1,12 +1,13 @@
 <script>
   import Affiliations from "$lib/components/Affiliations.svelte";
+  import aboutImage from '$lib/images/gallery-images/WhatsApp Image 2023-01-18 at 3.04.02 PM (1).jpeg'
 </script>
 <section class="bg-white py-16">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <h2 class="text-3xl font-extrabold text-gray-900 text-center mb-8">About Us</h2>
       <div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
         <div>
-          <img src="/src/lib/images/gallery-images/WhatsApp Image 2023-01-18 at 3.04.02 PM (1).jpeg" alt="Neseti Institute" class="rounded-lg shadow-md">
+          <img src={aboutImage}>
         </div>
         <div>
           <h3 class="text-2xl font-semibold text-gray-900 mb-4">Empowering Minds Since 2022</h3>
