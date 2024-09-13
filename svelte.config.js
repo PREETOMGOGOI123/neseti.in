@@ -1,5 +1,4 @@
 import adapter from '@sveltejs/adapter-static';
-import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -7,17 +6,26 @@ const config = {
     adapter: adapter({
       pages: 'build',
       assets: 'build',
-      fallback: null,
-      precompress: false
+      fallback: 'index.html', // For SPA-style routing
+      precompress: false,
+      strict: true
     }),
-    prerender: {
-      default: true
-    },
+    
+    // Path configuration for GitHub Pages
     paths: {
-      base: process.env.NODE_ENV === 'production' ? '' : ''
+      base: process.env.NODE_ENV === 'production' ? '/Neseti-test-hosting' : '',
+    },
+
+    // Prerendering configuration
+    prerender: {
+      entries: ['*'] // Prerender all pages
+    },
+
+    // Alias configuration (if needed)
+    alias: {
+      $lib: './src/lib',
     }
-  },
-  preprocess: vitePreprocess()
+  }
 };
 
 export default config;

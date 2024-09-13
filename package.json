@@ -4,20 +4,20 @@
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",
-		"prebuild": "cp static/CNAME build/",
 		"build": "vite build",
 		"preview": "vite preview"
 	},
 	"devDependencies": {
-		"@sveltejs/adapter-auto": "^3.0.0",
+		"@sveltejs/adapter-auto": "^3.2.4",
 		"@sveltejs/adapter-static": "^3.0.4",
-		"@sveltejs/kit": "^2.0.0",
-		"@sveltejs/vite-plugin-svelte": "^3.0.0",
+		"@sveltejs/kit": "^2.5.26",
+		"@sveltejs/vite-plugin-svelte": "^3.1.2",
 		"autoprefixer": "^10.4.20",
+		"main": "^1000.0.1",
 		"postcss": "^8.4.45",
-		"svelte": "^4.2.7",
-		"tailwindcss": "^3.4.10",
-		"vite": "^5.0.3"
+		"svelte": "^4.2.19",
+		"tailwindcss": "^3.4.11",
+		"vite": "^5.4.5"
 	},
 	"type": "module"
 }
