@@ -4,8 +4,8 @@
 
 	const menuItems = [
 		{ label: 'Home', href: '/' },
-		{ label: 'About Us', href: '/justfortrial.site/about' },
-		{ label: 'Courses', href: '/justfortrial.site/courses' },
+		{ label: 'About Us', href: '/about' },
+		{ label: 'Courses', href: '/courses' },
 		{ label: 'Contact Us', href: '#contact-us' },
 		{ label: 'Login', href: '/auth' }
 	];
