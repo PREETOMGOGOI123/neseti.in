@@ -13,7 +13,7 @@ const config = {
     
     // Path configuration for GitHub Pages
     paths: {
-      base: process.env.NODE_ENV === 'production' ? '/Neseti-test-hosting' : '',
+      base: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
     },
 
     // Prerendering configuration
