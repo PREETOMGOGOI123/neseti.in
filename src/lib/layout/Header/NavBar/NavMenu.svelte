@@ -3,7 +3,7 @@
 	import { base } from '$app/paths';
 
 	const menuItems = [
-		{ label: 'Home', href: '/justfortrial.site/' },
+		{ label: 'Home', href: '/' },
 		{ label: 'About Us', href: '/justfortrial.site/about' },
 		{ label: 'Courses', href: '/justfortrial.site/courses' },
 		{ label: 'Contact Us', href: '#contact-us' },
