@@ -27,13 +27,14 @@ jobs:
 
       - name: build
         env:
-          BASE_PATH: '' # Set to empty string for root domain
+          BASE_PATH: '/Neseti-test-hosting'
         run: |
           pnpm run build
 
       - name: Upload Artifacts
         uses: actions/upload-pages-artifact@v3
         with:
+          # this should match the `pages` option in your adapter-static options
           path: 'build/'
 
   deploy:

@@ -13,7 +13,7 @@ const config = {
     
     // Path configuration for GitHub Pages
     paths: {
-      base: process.argv.includes('dev') ? '' : '/',
+      base: process.argv.includes('dev') ? '' : '',
     },
   
 
