@@ -14,6 +14,7 @@
           { title: "Emergency Care Assistant", description: "Intensive 12-month program training students in emergency medical care, including triage, life-saving procedures, and crisis management in healthcare settings.", link: "/courses/emergency-care-assistant", duration: "12 months" },
           { title: "Pharmacy Assistant", description: "Comprehensive year-long course covering pharmaceutical practices, medication management, and ethical considerations in pharmacy operations.", link: "/courses/pharmacy-assistant", duration: "12 months" },
           { title: "CERTIFICATE IN WARD BOY AND WARD GIRL", description: "6-month certificate program focusing on essential skills for hospital ward management, patient care assistance, and maintaining a hygienic healthcare environment.", link: "/courses/ward-boy-ward-girl", duration: "6 months" },
+          { title: "CERTIFICATE IN LABORATORY MEDICAL TECHNICIAN", description: "A 12-month program designed to equip students with the skills needed for laboratory procedures, including specimen collection, analysis, and quality control in medical laboratories.", link: "/courses/laboratory-medical-technician", duration: "12 months" }
         ]
       },
       {

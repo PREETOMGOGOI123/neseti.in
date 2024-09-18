@@ -7,7 +7,7 @@
 		{ label: 'About Us', href: '/about' },
 		{ label: 'Courses', href: '/courses' },
 		{ label: 'Contact Us', href: '#contact-us' },
-		{ label: 'Login', href: '/auth' }
+		{ label: 'Login', href: '/login' }
 	];
 
 	function handleClick(event, href) {
