@@ -14,9 +14,7 @@
         <ul>
           <li><a href="/" class="hover:text-blue-400 transition duration-300">Home</a></li>
           <li><a href="/courses" class="hover:text-blue-400 transition duration-300">Courses</a></li>
-          <li><a href="/admission" class="hover:text-blue-400 transition duration-300">Admission</a></li>
-          <li><a href="/contact" class="hover:text-blue-400 transition duration-300">Contact Us</a></li>
-          <li><a href="/faqs" class="hover:text-blue-400 transition duration-300">FAQs</a></li>
+          <li><a href="#contact" class="hover:text-blue-400 transition duration-300">Contact Us</a></li>
         </ul>
       </div>
       <div>
