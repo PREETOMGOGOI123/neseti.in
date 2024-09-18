@@ -16,7 +16,7 @@
   ];
 
   const faculty = [
-    { name: 'Mr. Ranjit Saikia', role: 'Director', experience: 'M.A(Sociology, Psychology), PGDCA, Certificate in Health and Family Education(HIV), DHE(Diploma in Hardware Engineering), Certificate in Diet and Nutritionist)' },
+    { name: 'Ranjit Saikia', role: 'Director', experience: 'M.A(Sociology, Psychology), PGDCA, Certificate in Health and Family Education(HIV), DHE(Diploma in Hardware Engineering), Certificate in Diet and Nutritionist)' },
     { name: 'Debajit Saikia', role: 'Assistant Director', experience: 'M.A in Assamese and Hindi, Advance Diploma in Computer Application' },
     { name: 'Ankur Bora', role: 'General Manager', experience: 'Skilled in institutional management' },
     { name: 'Dr. Chandraj Gogoi', role: 'Chairperson', experience: 'M.B.B.S, M.D' },

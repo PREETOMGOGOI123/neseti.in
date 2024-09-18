@@ -85,6 +85,9 @@
     <div class="text-gray-200 text-center pt-16 text-xl font-light">
       <strong class="font-semibold">HSLC</strong> and <strong class="font-semibold">HS</strong> direct exam available - Certified by Board of Open Schooling & Skill Education
     </div>
+    <div class="text-gray-200 text-center pt-16 text-xl font-light">
+      <strong class="font-semibold">Online examination available for </strong> B.A.<strong class="font-semibold">M.A.</strong> - Certified by Gyan Bihar University
+    </div>
   </div>
 
   <div id="course-list" class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 bg-gray-100">

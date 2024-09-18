@@ -23,7 +23,7 @@
     eligibility: "10+2 or equivalent with basic computer knowledge",
     courseHead: {
         name: "Ranjit Saikia",
-        qualification: "Ph.D. in Computer Science",
+        qualification: "PGDCA(Post Graduate Diploma in Computer Application), Diploma in Hardware Engineering",
         phoneNumber: "+91 9876543210"
     },
     relatedCourses: [

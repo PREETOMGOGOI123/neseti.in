@@ -22,7 +22,8 @@
     });
   
     const announcements = [
-      "Admission into HS and HSLC direct examination starting soon!",
+      "Online Examination - HS and HSLC (Certified by Board of Open Schooling)",
+      "Online examination available for B.A. and M.A course (Certified By Gyan Bihar) ",
     ];
 </script>
 

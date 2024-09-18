@@ -92,7 +92,7 @@
                 {/each}
             </div>
         </div>
-
+<!--
         <div class="text-center">
             <button
                 on:click={toggleEnquiryForm}
@@ -120,7 +120,7 @@
                     Submit Enquiry
                 </button>
             </form>
-        {/if}
+        {/if} -->
     </div>
 </div>
 

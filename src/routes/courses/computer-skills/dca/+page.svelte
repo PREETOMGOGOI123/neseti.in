@@ -23,7 +23,7 @@
     eligibility: "10th pass or equivalent",
     courseHead: {
         name: "Mr.Ranjit Saikia",
-        qualification: "Ph.D. in Computer Science",
+        qualification: "PGDCA(Post Graduate Diploma in Computer Application), Diploma in Hardware Engineering",
         phoneNumber: "+91 9876543210"
     },
     relatedCourses: [

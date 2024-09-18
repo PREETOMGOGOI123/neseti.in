@@ -8,5 +8,5 @@
 <HeroSection />
 <FeaturedCoursesSection />
 <AboutUsSection />
-<QuickLinks />
+
 
