@@ -13,7 +13,7 @@ const config = {
     
     // Path configuration for GitHub Pages
     paths: {
-      base: process.argv.includes('dev') ? '' : '/neseti',
+      base: process.argv.includes('dev') ? '' : '/',
     },
   
 
